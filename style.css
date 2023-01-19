@@ -1,0 +1,34 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:ital@0;1&display=swap');
+
+
+.btn-styling{
+    border-radius: 40%;
+    padding: 10px 20px;
+    margin: 8px 8px;
+    font-size: 20px;
+    font-weight: bolder;
+    width:60px;
+}
+
+.container{
+    /* width: 100%; */
+    flex-direction: column;
+
+}
+
+.row input{
+    padding: 10px 30px;
+    border: 5px solid black;
+    border-radius: 15px;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
+.row{
+    background-color: black;
+
+    color: white;
+    border-radius: 30px;
+}
